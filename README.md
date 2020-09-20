@@ -1,2 +1,2 @@
 # PM-FSOR
-Prognostic Model Based on Feature Selection with Orthogonal Regression Approach
+Prognostic model based on feature selection with orthogonal regression Approach
