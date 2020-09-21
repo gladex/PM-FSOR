@@ -4,7 +4,7 @@ Construction of a prognostic model based on feature selection with orthogonal re
 
 
 
-/Scripts/ contains: 
+> /Scripts/ contains: 
 * pca.R: Implementation of PCA analysis and visualization procedures for four LUAD GEO datasets.
 * FSOR_datapre.R: Preprocessing the gene expression data from TCGA and initializing parameters for FSOR.
 * FSOR_train.R: It contains the main training process of FSOR. It may be time-consuming. Please split the experimental data small if necessary.
