@@ -2,20 +2,20 @@
 Construction of a prognostic model based on feature selection with orthogonal regression.
 
 >/Data/ contains:
-*FSOR_result.Rdata
-*geodata.Rdata
-*hrgene_exp_1060.Rdata
-*unicox_results.Rdata
+* FSOR_result.Rdata
+* geodata.Rdata
+* hrgene_exp_1060.Rdata
+* unicox_results.Rdata
 
 >/Results/ contains:
-BP_GO.csv
-CC_GO.csv
-MF_GO.csv
-kegg.csv
-selectgene_effectsize.csv
-selectgene_fsor_50_weight.csv
-tcga_Up_DEM.csv
-tcga_univariate COX analysis_log2(x+1).csv
+* BP_GO.csv
+* CC_GO.csv
+* MF_GO.csv
+* kegg.csv
+* selectgene_effectsize.csv
+* selectgene_fsor_50_weight.csv
+* tcga_Up_DEM.csv
+* tcga_univariate COX analysis_log2(x+1).csv
 
 >/Scripts/ contains: 
 * pca.R: Implementation of PCA analysis and visualization procedures for four LUAD GEO datasets.
