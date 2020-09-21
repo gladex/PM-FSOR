@@ -1,5 +1,5 @@
 # PM-FSOR
-Construction of a prognostic model based on feature selection with orthogonal regression.
+Construction of a prognostic model based on feature selection with orthogonal regression (FSOR).
 
 >/Data/ contains:
 * FSOR_result.Rdata
