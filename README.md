@@ -2,7 +2,7 @@
 Prognostic model based on a feature selection with orthogonal regression approach.
 
 pca.R:
-PCA analysis and visualization procedures for four LUAD GEO databases.
+PCA analysis and visualization procedures for four LUAD GEO datasets.
 
 FSOR_datapre.R:
 Pretreat the gene expression data in TCGA and set initial parameters for FSOR.
@@ -17,5 +17,4 @@ lasso_cox.R:
 The results were compared with THOSE of FSOR.
 
 Contact:
-Yuqi Wang (yukihhu@foxmail.com)
-Binhua Tang, PhD (bh.tang@outlook.com)
+Yuqi Wang (yukihhu@foxmail.com); Binhua Tang, PhD (bh.tang@outlook.com).
