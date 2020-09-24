@@ -24,5 +24,5 @@ Construction of a prognostic model based on feature selection with orthogonal re
 * prognostic_model.R: This involves further screening candidate genes based on Cox regression results. C-index were considered in this procedure. 
 * lasso_cox.R: The results were compared with those based on the FSOR approach.
 
-Contact:
+## Contact:
 Yuqi Wang (yukihhu@foxmail.com); Binhua Tang, PhD (bh.tang@outlook.com).
