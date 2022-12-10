@@ -28,4 +28,4 @@ Construction of a prognostic model based on feature selection with orthogonal re
 Yuqi Wang (yukihhu@foxmail.com); Binhua Tang, PhD (bh.tang@outlook.com).
 
 ## Citation:
-Tang B., Wang Y., Chen Y., Li M., Tao Y. [A Novel Early-Stage Lung Adenocarcinoma Prognostic Model Based on Feature Selection With Orthogonal Regression](https://www.frontiersin.org/articles/10.3389/fcell.2020.620746/full). Frontiers in Cell and Developmental Biology, 2021(8), ArticleID:620746.
+Tang B., Wang Y., Chen Y., Li M., Tao Y. A Novel Early-Stage Lung Adenocarcinoma Prognostic Model Based on Feature Selection With Orthogonal Regression. Frontiers in Cell and Developmental Biology, 2021(8), [ArticleID:620746](https://www.frontiersin.org/articles/10.3389/fcell.2020.620746/full).
